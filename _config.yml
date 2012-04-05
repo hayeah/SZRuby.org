@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: SZRuby.org
+subtitle: Rubyists in Shenzhen
+author: szruby
 simple_search: http://google.com/search
-description:
+description: Shenzhen's Ruby Group
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: info@szruby.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
